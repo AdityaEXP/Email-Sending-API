@@ -12,7 +12,7 @@
 <br>
 
 ### Now let's see how to use it its simple!!
-https://yourdomain.com?fromEmail=None&toEmail=None&emailSubject=None&emailMessage=None&emailPassword=None
+https://yourdomain.heroku.com?fromEmail=None&toEmail=None&emailSubject=None&emailMessage=None&emailPassword=None
 <br>
 
 ```
