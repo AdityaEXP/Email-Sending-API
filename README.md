@@ -8,9 +8,12 @@
 
 <br>
 
+### Deploy On Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AdityaEXP/Email-Sending-API/tree/master)
+<br>
+
 ### Now let's see how to use it its simple!!
 https://yourdomain.com?fromEmail=None&toEmail=None&emailSubject=None&emailMessage=None&emailPassword=None
-
 <br>
 
 ```
@@ -20,7 +23,6 @@ emailSubject => Subject Of Email
 emailMessage => Message You Want To Send (HTML Supported)
 emailPassword => App Password Obtain From Video
 ```
-
 <br>
 
 #### Code Examples Is In 'examples' Directory!!
