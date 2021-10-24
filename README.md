@@ -5,7 +5,6 @@
 > Normal Google Password Won't Work You Have To Create App Password.
 >
 > Go To The Video And Create One => https://youtu.be/J4CtP1MBtOE (**Video Is Not Mine Its From Youtube.**)
-
 <br>
 
 ### Deploy On Heroku
