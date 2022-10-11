@@ -24,5 +24,3 @@ emailPassword => App Password Obtain From Video
 ```
 <br>
 
-#### Code Examples Is In 'examples' Directory!!
-#### **My Channel https://t.me/TGBotsByLazy**
